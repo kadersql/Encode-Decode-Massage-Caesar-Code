@@ -1,5 +1,1 @@
-Encode & Decode a message in Caesar Cipher (shift) style.
-
-user input a message and the key number of shift
-
-used Java OOP for it
+Encode & Decode a message useing OOP in Caesar Cipher (shift) style. User input a message and the key number of shift
